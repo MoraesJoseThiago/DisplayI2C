@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=5OSPk5oHhVM
+
+abrir I2C Scanner > upload
+criar ref mar21a e carregar biblioteca LiquidCrystal_I2C
+
+exercicio mar20a
